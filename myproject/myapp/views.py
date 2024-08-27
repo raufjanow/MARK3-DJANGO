@@ -10,7 +10,7 @@ def index(request):
         {'name': 'Subscription', 'active': False},
         {'name': 'Contact Us', 'active': False},
     ]
-    # sec for
+    # SEC FOR
     activities = [
         {
             'title': 'Riding Mountain Bike',
